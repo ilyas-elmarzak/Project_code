@@ -1,0 +1,20 @@
+{
+  "name": "Project-Code",
+  "version": "1.0.0",
+  "description": "Le projet permet d'améliorer vos compétences dans un environnement de travail réel.",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass -w --output-style expended scss -o css" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyas-elmarzak/Project-Code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyas-elmarzak/Project-Code/issues"
+  },
+  "homepage": "https://github.com/ilyas-elmarzak/Project-Code#readme"
+}
